@@ -1,0 +1,13 @@
+﻿﻿https://console.cloud.google.com/google/maps-apis/api-list?project=cargoup2023
+https://developers.google.com/maps/documentation/routes?hl=es-419
+https://developers.google.com/maps/documentation/distance-matrix?hl=es-419
+https://developers.google.com/maps/documentation/geocoding?hl=es-419
+https://console.cloud.google.com/google/maps-apis/build/commutes?project=cargoup2023
+https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal
+https://console.cloud.google.com/google/maps-apis/studio/maps/97f190c68cce7f5c?project=cargoup2023
+https://console.cloud.google.com/google/maps-apis/home?project=cargoup2023
+https://console.cloud.google.com/google/maps-apis/discover/text-directions?project=cargoup2023
+https://jsfiddle.net/gh/get/library/pure/googlemaps/js-samples/tree/master/dist/samples/geocoding-simple/jsfiddle
+https://console.cloud.google.com/google/maps-apis/build/address-selection;isMapsRedirect=true?project=cargoup2023
+https://jsfiddle.net/api/post/library/pure/
+https://console.cloud.google.com/google/maps-apis/build/commutes?project=cargoup2023
